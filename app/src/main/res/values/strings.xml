@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tugas-Rizki-InfiniteLearning</string>
+
+    <string name="name1">Singa</string>
+    <string name="name2">Gajah</string>
+    <string name="name3">Kura-kura</string>
+    <string name="name4">Kucing</string>
+    <string name="name5">Orang Utan</string>
+    <string name="name6">Kuda</string>
+    <string name="name7">Jerapah</string>
+    <string name="name8">Ular</string>
+    <string name="name9">Elang</string>
+    <string name="name10">Paus</string>
+
+    <string name="deskripsi1">Mamalia besar dengan bulu berwarna coklat keemasan, dikenal sebagai raja hutan.</string>
+    <string name="deskripsi2">Mamalia berbadan besar dengan belalai panjang, telinga lebar, dan gigi gading besar.</string>
+    <string name="deskripsi3">Reptil bersisik dengan cangkang keras yang melindungi tubuhnya, biasanya hidup di darat atau air.</string>
+    <string name="deskripsi4">Mamalia kecil dengan bulu halus dan lentur, sering dijinakkan sebagai hewan peliharaan.</string>
+    <string name="deskripsi5">Primata besar dengan bulu coklat merah, hidup di hutan-hutan tropis Asia Tenggara.</string>
+    <string name="deskripsi6">Mamalia berkuku tunggal yang digunakan untuk transportasi dan olahraga, memiliki bulu tebal dan ekor panjang.</string>
+    <string name="deskripsi7">Mamalia besar dengan leher panjang, kaki yang tinggi, dan bercak-bercak pada bulunya.</string>
+    <string name="deskripsi8">Reptil tanpa kaki yang bergerak dengan melata, banyak jenisnya berbisa.</string>
+    <string name="deskripsi9">Burung pemangsa yang kuat dengan sayap lebar dan cakar tajam, sering terlihat melayang di langit.</string>
+    <string name="deskripsi10">Mamalia laut raksasa dengan tubuh besar dan sirip seperti layar, hidup di perairan laut.</string>
+
+</resources>
